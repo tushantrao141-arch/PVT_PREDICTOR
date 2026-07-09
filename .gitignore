@@ -1,0 +1,4 @@
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
